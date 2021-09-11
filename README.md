@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Patel</h1>
+<h1 align="center">Hi 👋, I'm Ayush </h1>
 <h3 align="center">A Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushpatel13&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpatel13" /> </p>
