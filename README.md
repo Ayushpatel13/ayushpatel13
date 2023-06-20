@@ -1,17 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ayush </h1>
-<h3 align="center">A Data Science Enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushpatel13&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpatel13" /> </p>
-
+<h1 align="center">Hey there! 👋 I'm Ayush </h1>
+<h3 align="center">A Passionate Data Scientist 📊</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-- 👨‍💻I'm currently pursuing **MSc. Data Science**
+🎓 Master's degree holder in Data Science 📚
 
-- 🌱 I’m currently learning **NLP and NLU**
+🌱 Currently diving deep into the fascinating world of Generative AI 🤖
 
-- 📫 How to reach me **ayushpatelnakish@gmail.com**
+📫 Reach me at ayushpatelnakish@gmail.com for any cool collaborations🤝
 
-- ⚡ Fun fact **I think I am funny**
+⚡ Fun fact: I believe I've got a knack for cracking jokes 😄
 
 
 <br> <!-- New line --> 
