@@ -1,14 +1,15 @@
 <h1 align="center">Hey there! 👋 I'm Ayush </h1>
-<h3 align="center">A Passionate Data Scientist 📊</h3>
+<h3 align="center">A Data Scientist, ML Engineer, AI Developer, and Data Analyst... Phew, I wear many hats! 🧢🤓</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-🎓 Master's degree holder in Data Science 📚
+- 🎓 Master's degree holder in Data Science 📚
 
-🌱 Currently diving deep into the fascinating world of Generative AI 🤖
+- 🌱 Currently diving deep into the fascinating world of Generative AI 🤖
 
-📫 Reach me at ayushpatelnakish@gmail.com for any cool collaborations🤝
+- 📫 Reach me at **ayushpatelnakish@gmail.com** for any cool collaborations or discussions 🤝
 
-⚡ Fun fact: I believe I've got a knack for cracking jokes 😄
+- ⚡ Fun fact: I've got more job titles than a superhero! 🦸‍♂️ Data Scientist, ML Engineer, AI Developer, Data Analyst... you name it, I've done it! 😉
 
 
 <br> <!-- New line --> 
